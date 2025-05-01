@@ -15,13 +15,9 @@ A quick collection of some useful commands
 
 - `git commit -a -m WIP`
 - `git checkout main`
-
-  or
-
+- or
 - `git stash`
-
-  or
-
+- or
 - `git reset HEAD --hard`
 
 
