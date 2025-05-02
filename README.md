@@ -35,7 +35,7 @@ A quick collection of some useful commands
 ## A Bit Deeper
 
 - `git checkout source-commit -- file/to/take`
-- `git log --all --decorate --oneline --graph`
+- `git log --all --decorate --oneline --graph [--simplify-by-decoration]`
 - [git absorb](https://github.com/tummychow/git-absorb)
 - Want just part of a file's changes? Use the VSCode GUI
 
